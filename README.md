@@ -70,7 +70,7 @@ A list of labs completed.
 # Translation Code
 <details>
   <summary>Google Cloud Fundamentals -  Getting Started App Engine </summary>
- https://github.com/Olufemi-Oyekanmi/gads-2020-project/blob/master/Google%20Cloud%20Fundamentals%20-%20%20Getting%20Started%20App%20Engine.txt
+ https://github.com/Omokhepe/GADS-2020-Project/blob/master/Google%20Cloud%20Fundamentals-Getting%20Started%20with%20App%20Engine.ps1
 </details>
 
  
@@ -85,5 +85,5 @@ https://github.com/Omokhepe/GADS-2020-Project/blob/master/Getting%20Started%20wi
 
 <details>
   <summary>Google Cloud Fundamentals -  Getting Started with GKE </summary>
-https://github.com/Olufemi-Oyekanmi/gads-2020-project/blob/master/Google%20Cloud%20Fundamentals%20-%20Getting%20Started%20with%20GKE.txt
+https://github.com/Omokhepe/GADS-2020-Project/blob/master/Google%20Cloud%20Fundamentals%20Getting%20Started%20with%20GKE.ps1
 </details>
