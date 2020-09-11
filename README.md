@@ -77,7 +77,7 @@ A list of labs completed.
 
 <details>
   <summary>Google Cloud Fundamentals -  Getting Started with Compute Engine </summary>
-https://github.com/Olufemi-Oyekanmi/gads-2020-project/blob/master/Google%20Cloud%20Fundamentals%20-%20Getting%20Started%20with%20Compute%20Engine.txt
+https://github.com/Omokhepe/GADS-2020-Project/blob/master/Getting%20Started%20with%20Compute%20Engine.ps1
 </details>
 
  
