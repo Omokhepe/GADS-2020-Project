@@ -66,3 +66,24 @@ Documentation for my GADS 2020 project.
 
 # QwikLabs Completed
 A list of labs completed.
+
+# Translation Code
+<details>
+  <summary>Google Cloud Fundamentals -  Getting Started App Engine </summary>
+ https://github.com/Olufemi-Oyekanmi/gads-2020-project/blob/master/Google%20Cloud%20Fundamentals%20-%20%20Getting%20Started%20App%20Engine.txt
+</details>
+
+ 
+
+<details>
+  <summary>Google Cloud Fundamentals -  Getting Started with Compute Engine </summary>
+https://github.com/Olufemi-Oyekanmi/gads-2020-project/blob/master/Google%20Cloud%20Fundamentals%20-%20Getting%20Started%20with%20Compute%20Engine.txt
+</details>
+
+ 
+
+
+<details>
+  <summary>Google Cloud Fundamentals -  Getting Started with GKE </summary>
+https://github.com/Olufemi-Oyekanmi/gads-2020-project/blob/master/Google%20Cloud%20Fundamentals%20-%20Getting%20Started%20with%20GKE.txt
+</details>
